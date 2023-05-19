@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Brake Pads",
+    "price": 39.99,
+    "description": "High-quality brake pads for optimal stopping power and improved safety on the road. Designed for durability and reliable performance. Suitable for various car models and easy to install.",
+    "image": "https://example.com/brake-pads.jpg",
+    "ratings": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Air Filter",
+    "price": 19.99,
+    "description": "Premium air filter that effectively captures dust, pollen, and other airborne particles, ensuring clean air flow into the engine. Enhances engine performance and fuel efficiency. Compatible with most car models.",
+    "image": "https://example.com/air-filter.jpg",
+    "ratings": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Spark Plugs",
+    "price": 12.99,
+    "description": "High-performance spark plugs that ignite fuel efficiently, resulting in smoother engine operation and improved fuel economy. Designed to withstand high temperatures and provide reliable ignition. Suitable for a wide range of car makes and models.",
+    "image": "https://example.com/spark-plugs.jpg",
+    "ratings": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Oil Filter",
+    "price": 8.99,
+    "description": "Durable oil filter that removes contaminants and impurities from engine oil, ensuring clean oil circulation and engine protection. Compatible with various car engines and designed for easy installation and replacement.",
+    "image": "https://example.com/oil-filter.jpg",
+    "ratings": 4.4
+  },
+  {
+    "id": 5,
+    "name": "Wiper Blades",
+    "price": 24.99,
+    "description": "High-performance wiper blades that provide clear visibility and streak-free wiping. Designed to withstand harsh weather conditions and provide smooth and quiet operation. Easy to install and compatible with most car models.",
+    "image": "https://example.com/wiper-blades.jpg",
+    "ratings": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Car Battery",
+    "price": 99.99,
+    "description": "Reliable car battery with high cranking power for quick and consistent starts. Long-lasting performance and maintenance-free operation. Suitable for a wide range of car makes and models. Includes a warranty for peace of mind.",
+    "image": "https://example.com/car-battery.jpg",
+    "ratings": 4.3
+  },
+  {
+    "id": 7,
+    "name": "Shock Absorbers",
+    "price": 89.99,
+    "description": "High-performance shock absorbers that provide a smooth and comfortable ride by effectively absorbing road vibrations. Improves handling, stability, and braking. Suitable for various car models and designed for durability.",
+    "image": "https://example.com/shock-absorbers.jpg",
+    "ratings": 4.7
+  },
+  {
+    "id": 8,
+    "name": "Exhaust System",
+    "price": 249.99,
+    "description": "Premium exhaust system that enhances engine performance, improves fuel efficiency, and adds a sporty sound to your car. Constructed with high-quality materials for durability. Suitable for specific car makes and models.",
+    "image": "https://example.com/exhaust-system.jpg",
+    "ratings": 4.4
+  },
+  {
+    "id": 9,
+    "name": "Radiator",
+    "price": 159.99,
+    "description": "Efficient radiator for optimal engine cooling and temperature regulation. Designed to withstand high temperatures and provide reliable cooling performance. Compatible with various car models and easy to install.",
+    "image": "https://example.com/radiator.jpg",
+    "ratings": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Timing Belt Kit",
+    "price": 79.99,
+    "description": "Comprehensive timing belt kit that includes all necessary components for proper timing belt replacement. Ensures precise engine timing and prevents potential damage. Suitable for specific car engines.",
+    "image": "https://example.com/timing-belt-kit.jpg",
+    "ratings": 4.3
+  },
+  {
+    "id": 11,
+    "name": "Fuel Pump",
+    "price": 69.99,
+    "description": "High-quality fuel pump that delivers the right amount of fuel to the engine for efficient combustion. Designed for reliability and consistent performance. Compatible with various car makes and models.",
+    "image": "https://example.com/fuel-pump.jpg",
+    "ratings": 4.5
+  },
+  {
+    "id": 12,
+    "name": "Starter Motor",
+    "price": 129.99,
+    "description": "Durable starter motor that ensures reliable engine starting. Provides sufficient power to crank the engine and start the ignition process. Compatible with specific car models and designed for easy installation.",
+    "image": "https://example.com/starter-motor.jpg",
+    "ratings": 4.2
+  }
+]
